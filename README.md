@@ -1,13 +1,15 @@
 # Hi there! 👋
 
-I'm [Muhammad Mujahid], a passionate DevOps Engineer dedicated to automating workflows and enhancing system reliability. I specialize in:
+I'm Muhammad Mujahid, a passionate DevOps Engineer and Full Stack Web Developer dedicated to automating workflows and enhancing system reliability. I specialize in:
 
 - **Infrastructure as Code (IaC)** 🏗️
 - **Continuous Integration/Continuous Deployment (CI/CD)** 🚀
 - **Cloud Services (AWS, Azure, GCP)** ☁️
 - **Containerization (Docker, Kubernetes)** 🐳
 - **Monitoring & Logging** 📈
-
+Building Scalable Web Applications ⚛️
+React Native Mobile Apps 📱
+.NET Framework Solutions 💻
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
